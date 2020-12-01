@@ -13,7 +13,7 @@ it can generate an analysis of Plant Time in a period of time. The images below 
 ![plant time in a month](https://raw.githubusercontent.com/blackdogtop/image-host/master/Forest-Analysis/plant%20time%20in%20a%20month.png)
 ![monthly plant time](https://raw.githubusercontent.com/blackdogtop/image-host/master/Forest-Analysis/monthly%20plant%20time.png)
 
-To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - accnount - exoport personal date*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
+To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - accnount - exoport personal data*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
 
 *TODO*
 1. Analyse tags
