@@ -18,6 +18,8 @@ the plant time every day in different weeks can be achieved. The images below sh
 ![DAYs in WEEK - PLANT TIME bar chart days in different week](https://raw.githubusercontent.com/blackdogtop/image-host/master/Forest-Analysis/DAYs%20in%20WEEK%20-%20PLANT%20TIME%20bar%20chart%20days%20in%20different%20week.png)
 ![DAYs in WEEK - AVERAGE PLANT TIME bat chart](https://raw.githubusercontent.com/blackdogtop/image-host/master/Forest-Analysis/DAYs%20in%20WEEK%20-%20AVERAGE%20PLANT%20TIME%20bat%20chart.png)
 
+Other function or plots can be found in the code.
+
 To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - accnount - exoport personal data*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
 
 *TODO*
