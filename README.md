@@ -20,7 +20,7 @@ the plant time every day in different weeks can be achieved. The images below sh
 
 Other function or plots can be found in the code.
 
-To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - accnount - exoport personal data*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
+To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - account - export personal data*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
 
 *TODO*
 1. Analyse tags
