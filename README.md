@@ -23,5 +23,6 @@ Other function or plots can be found in the code.
 To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - account - export personal data*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
 
 *TODO*
-1. Analyse tags
-2. Analyse tree type
+~~Analyse tags~~
+~~Analyse tree type~~
+Generate Focused Time Report in PDF format
