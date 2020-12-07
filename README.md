@@ -20,7 +20,33 @@ the plant time every day in different weeks can be achieved. The images below sh
 
 Other function or plots can be found in the code.
 
-To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - account - export personal data*. Then download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically.
+**EXECUTION**
+
+***Data Collection***
+To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - account - export personal data*. <br/>
+
+***Install Dependencies***
+```
+pip install numpy
+```
+```
+pip install pandas
+```
+```
+pip install matplotlib
+```
+***Run Code*** <br/>
+Download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically. <br/>
+
+*UPDATE 07.12.2020* <br/>
+Now, command lines are support to generate analysis. <br/>
+*e.g.*
+```
+python3 Forest-Analysis -i ./Plants_of_me.csv -t month
+```
+*Command Line Arguments* <br/>
+* `-i` or `--input_source`: the FOREST csv file, default with *./Plants_of_me.csv* which . is the current file path. <br/>
+* `-t` or `--time_period`: the period of time will be analysed, default with *month*. <br/>
 
 *TODO* <br/>
 Analyse tags <br/>
