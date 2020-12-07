@@ -22,8 +22,8 @@ Other function or plots can be found in the code.
 
 **EXECUTION**
 
-***Data Collection***
-To execute the analysis, first use FOREST app to generate your personal data, which can be found in *setting - account - export personal data*. <br/>
+***Data Collection*** <br/>
+To execute the analysis, first use FOREST app to generate your personal data with csv format, which can be found in *setting - account - export personal data*. <br/>
 
 ***Install Dependencies***
 ```
@@ -36,7 +36,7 @@ pip install pandas
 pip install matplotlib
 ```
 ***Run Code*** <br/>
-Download the csv file and replace the file path with your own in the code. After that, the analysis plots will be generated automatically. <br/>
+Download the FOREST csv file and replace the file path with your own in the code. After that, the analysed figures will be generated automatically. <br/>
 
 *UPDATE 07.12.2020* <br/>
 Now, command lines are support to generate analysis. <br/>
@@ -45,7 +45,7 @@ Now, command lines are support to generate analysis. <br/>
 python3 Forest-Analysis -i ./Plants_of_me.csv -t month
 ```
 *Command Line Arguments* <br/>
-* `-i` or `--input_source`: the FOREST csv file, default with *./Plants_of_me.csv* which . is the current file path. <br/>
+* `-i` or `--input_source`: the FOREST csv file path, default with *./Plants_of_me.csv* which the dot **"."** is the current file path. <br/>
 * `-t` or `--time_period`: the period of time will be analysed, default with *month*. <br/>
 
 *TODO* <br/>
